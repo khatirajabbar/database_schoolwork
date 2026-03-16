@@ -7,7 +7,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="982e9f14-3440-4720-b552-400f55a66f2c" name="Changes" comment="" />
+    <list default="true" id="982e9f14-3440-4720-b552-400f55a66f2c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp7/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp7/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp7/.idea/dataSources/1e1c288d-6ef5-4547-9274-ba42bdc17ff0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp7/.idea/dataSources/1e1c288d-6ef5-4547-9274-ba42bdc17ff0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp7/Product.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp7/Product.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp7/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp7/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp7/bin/Debug/net10.0/ConsoleApp7.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp7/bin/Debug/net10.0/ConsoleApp7.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp7/bin/Debug/net10.0/ConsoleApp7.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp7/bin/Debug/net10.0/ConsoleApp7.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp7/obj/Debug/net10.0/ConsoleApp7.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp7/obj/Debug/net10.0/ConsoleApp7.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp7/obj/Debug/net10.0/ConsoleApp7.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp7/obj/Debug/net10.0/ConsoleApp7.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp7/obj/Debug/net10.0/ConsoleApp7.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp7/obj/Debug/net10.0/ConsoleApp7.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp7/obj/Debug/net10.0/ConsoleApp7.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp7/obj/Debug/net10.0/ConsoleApp7.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp7/obj/Debug/net10.0/ConsoleApp7.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp7/obj/Debug/net10.0/ConsoleApp7.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp7/obj/Debug/net10.0/ref/ConsoleApp7.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp7/obj/Debug/net10.0/ref/ConsoleApp7.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp7/obj/Debug/net10.0/refint/ConsoleApp7.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp7/obj/Debug/net10.0/refint/ConsoleApp7.dll" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +46,21 @@
   <component name="DpaMonitoringSettings">
     <option name="firstShow" value="false" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;khatirajabbar&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/khatirajabbar/database_schoolwork.git&quot;,
+    &quot;accountId&quot;: &quot;052d66c8-bc17-4c55-bdb1-0d435d03407a&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/ConsoleApp7/Product.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -38,6 +68,10 @@
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
 }</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -50,9 +84,12 @@
   &quot;keyToString&quot;: {
     &quot;.NET Project.ConsoleApp7.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -98,6 +135,11 @@
       <workItem from="1773403626464" duration="17000" />
       <workItem from="1773403652440" duration="5665000" />
       <workItem from="1773602927964" duration="718000" />
+      <workItem from="1773647825818" duration="3978000" />
+      <workItem from="1773653193731" duration="20000" />
+      <workItem from="1773653248534" duration="157000" />
+      <workItem from="1773653431560" duration="5000" />
+      <workItem from="1773653447212" duration="6000" />
     </task>
     <servers />
   </component>
